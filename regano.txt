@@ -1,0 +1,32 @@
+---- HACER - MIENTRAS ---- 
+
+INICIO 
+LEER numero1
+LEER numero2 
+let castigo= numero1
+
+HACER 
+console.log(castigo)
+castigo= castigo+1
+
+MIENTRAS castigo<=numero2
+FIN
+
+---- MIENTRAS ---- 
+LEER numero1
+LEER numero2
+let contador= numero1
+
+MIENTRAS contador<=numero2
+console.log(contador)
+contador= contador + 1 
+FIN MIENTRAS 
+
+--- FOR ----
+const numero1=1
+const numero2=8
+castigo= numero1
+FOR(c=1 ; c <= numero2; c++){}
+console.log(castigo)
+castigo+=1
+}

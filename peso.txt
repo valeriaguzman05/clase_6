@@ -1,0 +1,43 @@
+let peso 
+const peso ideal
+const cambio de peso 
+let semanas=0 
+for(peso; peso<= peso ideal, peso=peso-cambio de peso){
+semanas+=1
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+CONSOLE.LOG(semanas)
+
+---- mientras ----
+let peso
+const cambio de peso 
+const peso ideal 
+semanas= 0 
+
+MIENTRAS peso > peso ideal HACER 
+peso= peso - cambio de peso 
+semanas= semanas + 1 
+FIN MIENTRAS 
+ESCRIBE TOTAL SEMANAS 
+
+---- HACER - MIENTRAS ----
+LEER peso 
+LEER peso ideal
+LEER cambio de peso 
+let SEMANAS=
+
+HACER 
+peso= peso - cambio de peso
+semanas= semanas + 1 
+
+MIENTRAS peso > peso ideal
+ESCRIBE SEMANAS 
+fin 
+
+let x=90
+let y= 60
+let w=2
+let s= 0
+for(y;y>=x;y+w){
+    s= s + 1;
+} console.log(s)
+
